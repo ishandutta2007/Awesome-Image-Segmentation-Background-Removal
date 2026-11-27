@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Image-Segmentation-Background-Removal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Segmentation-Background-Removal?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Image-Segmentation-Background-Removal/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Image-Segmentation-Background-Removal?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Image-Segmentation-Background-Removal/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Image-Segmentation-Background-Removal?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Image-Segmentation-Background-Removal/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -79,11 +79,11 @@ Commercial cloud-hosted AI background removers, enterprise visual asset APIs, an
 
 ## 🚀 Open-Source Libraries & Models 💻
 
-Curated open-source deep learning models, dichotomous segmentation tools, neural matting networks, and edge apps. Repositories in each section are sorted by GitHub stars in descending order.
+Curated open-source deep learning models, dichotomous segmentation tools, neural matting networks, and edge apps. Repositories in each section are sorted by GitHub_Stars in descending order.
 
 ### ⚡ Automated Background Removal Libraries & CLIs
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[rembg](https://github.com/danielgatis/rembg)** | [![Stars](https://img.shields.io/github/stars/danielgatis/rembg?style=social&color=white)](https://github.com/danielgatis/rembg/stargazers) | The industry-standard Python library, CLI, and HTTP server for image background removal with support for U2-Net, IS-Net, and BiRefNet. |
 | **[backgroundremover](https://github.com/nadermx/backgroundremover)** | [![Stars](https://img.shields.io/github/stars/nadermx/backgroundremover?style=social&color=white)](https://github.com/nadermx/backgroundremover/stargazers) | Powerful command-line tool and library to remove background from images and video using AI and Torchvision backbones. |
@@ -95,7 +95,7 @@ Curated open-source deep learning models, dichotomous segmentation tools, neural
 
 ### 🎯 State-of-the-Art Segmentation & Alpha Matting Models
 
-| Model / Framework | Stars | Description |
+| Model / Framework | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[U-2-Net](https://github.com/xuebinqin/U-2-Net)** | [![Stars](https://img.shields.io/github/stars/xuebinqin/U-2-Net?style=social&color=white)](https://github.com/xuebinqin/U-2-Net/stargazers) | Groundbreaking nested U-structure deep neural network for high-accuracy salient object detection and background separation. |
 | **[PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)** | [![Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleSeg?style=social&color=white)](https://github.com/PaddlePaddle/PaddleSeg/stargazers) | End-to-end high-performance image segmentation library supporting semantic, interactive, panoptic, and fine alpha matting. |
@@ -110,7 +110,7 @@ Curated open-source deep learning models, dichotomous segmentation tools, neural
 
 ### 🔮 Interactive & Promptable Foundation Models (SAM Ecosystem)
 
-| Foundation Model | Stars | Description |
+| Foundation Model | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[Segment Anything (SAM - Meta)](https://github.com/facebookresearch/segment-anything)** | [![Stars](https://img.shields.io/github/stars/facebookresearch/segment-anything?style=social&color=white)](https://github.com/facebookresearch/segment-anything/stargazers) | Meta AI's foundational promptable vision model that revolutionized zero-shot interactive object segmentation. |
 | **[Segment Anything Model 2 (SAM 2 - Meta)](https://github.com/facebookresearch/sam2)** | [![Stars](https://img.shields.io/github/stars/facebookresearch/sam2?style=social&color=white)](https://github.com/facebookresearch/sam2/stargazers) | Unified foundation model for real-time visual segmentation across images and videos with continuous memory attention. |
@@ -123,7 +123,7 @@ Curated open-source deep learning models, dichotomous segmentation tools, neural
 
 ### 🌐 Browser-Based & WebGPU Client-Side Background Removers
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[Transformers.js (Hugging Face)](https://github.com/huggingface/transformers.js)** | [![Stars](https://img.shields.io/github/stars/huggingface/transformers.js?style=social&color=white)](https://github.com/huggingface/transformers.js/stargazers) | Run state-of-the-art vision models (RMBG, SegFormer, SAM) client-side in the browser via WebGPU with 0 server latency. |
 | **[@imgly/background-removal-js](https://github.com/imgly/background-removal-js)** | [![Stars](https://img.shields.io/github/stars/imgly/background-removal-js?style=social&color=white)](https://github.com/imgly/background-removal-js/stargazers) | Seamless JavaScript library executing 100% in-browser AI background removal with ONNX Runtime Web and WebGPU. |
@@ -133,7 +133,7 @@ Curated open-source deep learning models, dichotomous segmentation tools, neural
 
 ### 🎬 Video Background Removal & Real-Time Matting
 
-| Project | Stars | Description |
+| Project | GitHub_Stars | Description |
 | :--- | :--- | :--- |
 | **[Robust Video Matting (RVM)](https://github.com/PeterL1n/RobustVideoMatting)** | [![Stars](https://img.shields.io/github/stars/PeterL1n/RobustVideoMatting?style=social&color=white)](https://github.com/PeterL1n/RobustVideoMatting/stargazers) | Robust, temporally coherent human video matting model running at 4K 60FPS / HD 104FPS in real time without green screens. |
 | **[BackgroundMattingV2](https://github.com/PeterL1n/BackgroundMattingV2)** | [![Stars](https://img.shields.io/github/stars/PeterL1n/BackgroundMattingV2?style=social&color=white)](https://github.com/PeterL1n/BackgroundMattingV2/stargazers) | Ultra high-resolution real-time background matting taking an additional static background capture for studio-grade isolation. |
